@@ -17,13 +17,13 @@ Recommended:
 Clone the repository
 
 ```sh
-git clone git@github.com:emilybache/GildedRose-Refactoring-Kata.git
+git clone https://github.com/zoeyung33/GildedRose-Refactoring-Kata.git
 ```
 
 or
 
 ```shell script
-git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+git clone https://github.com/zoeyung33/GildedRose-Refactoring-Kata.git
 ```
 
 Install all the dependencies using composer
@@ -62,7 +62,7 @@ PHPUnit is configured for testing, a composer script has been provided. To run t
 project run:
 
 ```shell script
-composer test
+composer repeattest
 ```
 
 A Windows a batch file has been created, like an alias on Linux/Mac (e.g. `alias pu="composer test"`), the same
