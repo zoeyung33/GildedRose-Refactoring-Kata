@@ -17,7 +17,7 @@ Recommended:
 Clone the repository
 
 ```sh
-git clone https://github.com/zoeyung33/GildedRose-Refactoring-Kata.git
+git clone git@github.com:zoeyung33/GildedRose-Refactoring-Kata.git
 ```
 
 or
